@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/hotel_set_icon"
+    android:icon="@drawable/ic_baseline_hotel_24"
+    app:showAsAction="ifRoom"
+    android:title="@string/hotel"/>
+
+<item android:id="@+id/rest_icon_set"
+    android:icon="@drawable/ic_baseline_restaurant_24"
+    android:title="@string/restaurant"/>
+
+<item android:id="@+id/flat_icon_set"
+    android:icon="@drawable/ic_baseline_meeting_room_24"
+    android:title="@string/flats"/>
+
+<item android:id="@+id/hostel_set_icon"
+    android:icon="@drawable/ic_baseline_house_24"
+    android:title="@string/hostel"/>
+
+<item android:id="@+id/pro_icon_set"
+    android:icon="@drawable/ic_baseline_person_24"
+    android:title="@string/profile"/>
+</menu>

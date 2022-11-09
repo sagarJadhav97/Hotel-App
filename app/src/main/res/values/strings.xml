@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fydhos</string>
+    <string name="search_hotel_and_city">Search Hotel and City</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel">Hotel</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="flats">Flats</string>
+    <string name="hostel">Hostel</string>
+    <string name="profile">Profile</string>
+    <string name="specially_for_you_sanitizer_rooms">specially for you Sanitizer Rooms.</string>
+    <string name="recommended_for_you">Recommended for you</string>
+    <string name="special_celebration_hall_for_you">Special Celebration Hall For You</string>
+    <string name="single_bad_rooms">Single bad rooms</string>
+    <string name="double_bad_rooms">Double bad rooms</string>
+    <string name="family_rooms">Family rooms</string>
+    <string name="couple_rooms">Couple rooms</string>
+    <string name="hotel_image">hotel image</string>
+    <string name="hotel_title">Hotel Title</string>
+    <string name="aurangabad">Aurangabad</string>
+
+    <string name="location">Location</string>
+    <string name="slider_for_image">slider for image</string>
+    <string name="refer_and_earn">refer and earn</string>
+    <string name="wishlist_button">wishlist button</string>
+    <string name="rating_star_show">rating star show</string>
+</resources>
